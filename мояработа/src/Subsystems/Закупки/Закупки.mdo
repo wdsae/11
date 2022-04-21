@@ -17,4 +17,5 @@
   <content>AccumulationRegister.ОстаткиТоваров</content>
   <content>AccumulationRegister.Закупки</content>
   <content>Report.ЗакупкиТоваров</content>
+  <content>Report.ОстаткиТоваровПоДаннымДокументам</content>
 </mdclass:Subsystem>
